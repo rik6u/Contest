@@ -14,7 +14,7 @@ public class AlphaMaskPainter : MonoBehaviour
     [Header("‰ñ•œİ’è")]
     [Range(0f, 1f)]
     public float recoverSpeed = 0.05f;
-    //sdg
+    
     private RenderTexture tempRT;
     private Vector2? lastUV = null;
 
